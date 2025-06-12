@@ -22,11 +22,11 @@ Go Live: Right-click on your index.html file in the VS Code Explorer and select 
 
 ## 🛠️ Customization
 You can easily modify this project by editing the index.html file.
-> Adjust Speeds: Change the value attribute of the speed input tags in the HTML to set different starting speeds.
+ Adjust Speeds: Change the value attribute of the speed input tags in the HTML to set different starting speeds.
 Change Planet Sizes/Orbits: Modify the radius and _orbit_radius variables in the <script type="module"> section.
 
-> Update Textures: Replace the image file paths (.jpg, .png) in the loadPlanetTexture and createMaterialArray functions with your own textures. Make sure your new images are in the same folder as the index.html file, or update the paths accordingly.
+ Update Textures: Replace the image file paths (.jpg, .png) in the loadPlanetTexture and createMaterialArray functions with your own textures. Make sure your new images are in the same folder as the index.html file, or update the paths accordingly.
 
-> Colors & Styles: Modify the CSS within the <style> tags or add more Tailwind CSS classes to customize the look and feel of the control panel and buttons.
+ Colors & Styles: Modify the CSS within the <style> tags or add more Tailwind CSS classes to customize the look and feel of the control panel and buttons.
 
 # Enjoy exploring the solar system!
